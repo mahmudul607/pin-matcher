@@ -112,3 +112,7 @@ color: #E0B612;
 #notify-fail{
     display: block;
 }
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
