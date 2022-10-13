@@ -113,6 +113,8 @@ color: #E0B612;
     display: block;
 }
 footer p{
+    margin-top: 30px;
     text-align: center;
+    color: #9c606b;
     font-size: 12px;
 }
