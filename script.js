@@ -82,8 +82,9 @@ function getVerification(){
    else{
       successMessage.style.display ='none';
       failMessage.style.display ='block';
+      clickFunc();
    }
-   clickFunc();
+   
 }
 
 
