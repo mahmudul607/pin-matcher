@@ -90,7 +90,7 @@ function getVerification(){
 
 var count = 3;
 function clickFunc() {
-count -= 1;
+count --;
 var click = document.getElementById('count-click').innerHTML = count;
 
 console.log(click);
